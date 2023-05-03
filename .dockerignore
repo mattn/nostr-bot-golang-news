@@ -1,2 +1,3 @@
 *.yaml
-*.sh
+setup.sh
+update.sh
